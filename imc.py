@@ -27,7 +27,8 @@ saida = mensagem(resultado_imc)
 print("="*50)
 print("RESULTADO DO SEU IMC")
 print(f\n seu IMC é:(valor_imc))
-print(f\n {saida})
+print(f"\n {saida}")
+print
 
 
 
