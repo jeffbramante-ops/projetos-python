@@ -1,4 +1,4 @@
 podio = [" diego 1", "breno 2", "jp 3"]
-podio2 = int(input("digite o numero do aluno que desejar ver no podio (1-3): "))
-indice2 = podio2 - 1
-print(f"aluno no podio: {podio[indice2]}")
+print(f"primeiro lugar:{podio[0]})
+print(f"segundo lugar:{podio[1]}")
+print(f"terceiro lugar:{podio[2]}")
